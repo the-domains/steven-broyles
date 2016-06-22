@@ -1,0 +1,14 @@
+layout_spectrum: 0.9749104
+typography_spectrum: 0.8548387
+color:
+  saturation: 0.5645161
+  brandStrength: 0.5350581
+  lightness: 0.453405
+  brandColors:
+    - '#010302'
+    - '#FFFFFF'
+    - '#CEA5B7'
+    - '#6F5464'
+    - '#E07B34'
+  rhythmicContrast: 0.8172528
+name: Steven Broyles
